@@ -4,3 +4,6 @@
 [submodule "42-get-next-line"]
 	path = 42-get-next-line
 	url = git@github.com:andreyvdl/42-get-next-line.git
+[submodule "42-ft_printf"]
+	path = 42-ft_printf
+	url = git@github.com:andreyvdl/42-ft_printf.git
