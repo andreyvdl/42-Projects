@@ -7,3 +7,6 @@
 [submodule "42-ft_printf"]
 	path = 42-ft_printf
 	url = git@github.com:andreyvdl/42-ft_printf.git
+[submodule "42-Born2BeRoot"]
+	path = 42-Born2BeRoot
+	url = git@github.com:andreyvdl/42-Born2BeRoot.git
